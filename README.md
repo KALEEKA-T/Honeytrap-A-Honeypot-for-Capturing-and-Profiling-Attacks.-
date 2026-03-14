@@ -66,18 +66,4 @@ The system architecture consists of four main components:
 
  
 
-## Repository Structure 
 
-src/ → Source configuration files 
-
-docs/ → Project documentation 
-
-README.md → Project overview 
-
-requirements.txt → Required tools 
-
-architecture.png → System architecture diagram 
-
-demo_video_link.txt → Demo video link 
-
-setup_instructions.md → Setup guide 
