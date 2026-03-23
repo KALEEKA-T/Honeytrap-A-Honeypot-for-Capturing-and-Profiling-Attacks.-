@@ -1,13 +1,7 @@
 Ubuntu 22.04 
-
 Python 3.x 
-
 Cowrie Honeypot 
-
 Elasticsearch 
-
 Filebeat 
-
 Kibana 
-
 Git 
